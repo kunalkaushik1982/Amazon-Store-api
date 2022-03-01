@@ -1,1 +1,0 @@
-# Amazon-Store-api
